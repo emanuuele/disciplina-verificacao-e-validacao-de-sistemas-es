@@ -11,7 +11,7 @@
 
 ## Questão 02
 
-Refatore o teste `create-appointment.spec` para que haja reaproveitamento de código entre os testes. Dica: utilize a função `beforeEach`.
+Refatore o teste `create-appointment.spec` para que haja reaproveitamento de código entre os testes. **Dica:** utilize a função `beforeEach`.
 
 ## Questão 03
 
